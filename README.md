@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlphaGamaBeta
-- 👀 I’m interested in Making bots and image processing, automation and any clever ideas that is practical 
-- 🌱 I’m currently learning Advance Python and C++ topics and started to learn Web development
+- 👋 Hi, I’m イスラム 
+- 👀 I’m always interested in Making bots and image processing, automation or any clever ideas that is practical 
+- 🌱 I’m currently learning Advanced Python topics and C++ advanced topics and started to learn Web development
 - 📫 How to reach me Alpha.omicronN@protonmail.ch
 - I speak Arabic and English and Japanese 
 
