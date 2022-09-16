@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/AlphaGamaBeta/space/blob/Alpha/banner(1).png?raw=true)
-
+![MasterHead](https://github.com/AlphaGamaBeta/space/blob/Alpha/banner(1).png?raw=true)        
 - 👋 Hi, I’m  Islam
 - 👀 I’m always interested in Making bots and image processing, automation or any clever ideas that is practical 
 - 📫 How to reach me Alpha.omicronN@protonmail.ch
@@ -11,3 +10,5 @@
 [![AlphaGamaBeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaGamaBeta&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/AlphaGamaBeta/github-readme-stats)
 
 ![AlphaGamaBeta's GitHub stats](https://github-profile-trophy.vercel.app/?username=AlphaGamaBeta&title=Repo&theme=tokyonight)
+
+ <img class="center" alt="Coding" height="200" width="100%" src="https://github.com/AlphaGamaBeta/space/blob/Alpha/ef9a3260506271.5a4f65ff2e513.gif?raw=true">
