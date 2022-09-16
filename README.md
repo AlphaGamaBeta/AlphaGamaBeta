@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AlphaGamaBeta/space/blob/Alpha/banner(1).png?raw=true)
 
-- 👋 Hi, I’m イスラム Islam
+- 👋 Hi, I’m  Islam
 - 👀 I’m always interested in Making bots and image processing, automation or any clever ideas that is practical 
 - 🌱 I’m currently learning Advanced Python topics and C++ advanced topics and started to learn Web development
 - 📫 How to reach me Alpha.omicronN@protonmail.ch
