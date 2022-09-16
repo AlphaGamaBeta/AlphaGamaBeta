@@ -11,4 +11,4 @@
 
 ![AlphaGamaBeta's GitHub stats](https://github-profile-trophy.vercel.app/?username=AlphaGamaBeta&title=Repo&theme=tokyonight)
 
- <img class="center" alt="Coding" height="200" width="100%" src="https://github.com/AlphaGamaBeta/space/blob/Alpha/ef9a3260506271.5a4f65ff2e513.gif?raw=true">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+never+exhausts+the+mind+)](https://git.io/typing-svg) <img align="right" alt="Coding" height="200" width="50%" src="https://github.com/AlphaGamaBeta/space/blob/Alpha/ef9a3260506271.5a4f65ff2e513.gif?raw=true">
