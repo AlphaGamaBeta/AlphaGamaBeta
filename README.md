@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Advanced Python topics and C++ advanced topics and started to learn Web development
 - 📫 How to reach me Alpha.omicronN@protonmail.ch
 - I speak Arabic and English and Japanese 
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaGamaBeta)](https://github.com/AlphaGamaBeta/github-readme-stats)
 <!---
 AlphaGamaBeta/AlphaGamaBeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
