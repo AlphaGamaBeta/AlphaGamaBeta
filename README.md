@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m  Islam
 - 👀 I’m always interested in Making bots and image processing, automation or any clever ideas that is practical 
-- 🌱 I’m currently learning Advanced Python topics and C++ advanced topics and started to learn Web development
+- 🌱 I’m currently learning Advanced Python topics and C++ advanced topics and started to learn Web development HTML CSS JavaScript and SQL ! 
 - 📫 How to reach me Alpha.omicronN@protonmail.ch
-- I speak Arabic and English and Japanese 
+- 🤖 I speak Arabic and English and Japanese 
 
 
 
